@@ -5,7 +5,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
 <title>Galaxy Explorer</title>
 <style>
-  /* Modern galaxy-themed styling - dark background, glowing accents */
   @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap');
 
   :root {
@@ -112,7 +111,6 @@
     flex-shrink: 0;
   }
 
-  /* Scrollbar styling for galaxy list */
   #galaxy-list::-webkit-scrollbar {
     width: 8px;
   }
@@ -126,7 +124,6 @@
     border-radius: 10px;
   }
 
-  /* Responsive adjustments */
   @media (max-width: 400px) {
     body {
       max-width: 100%;
