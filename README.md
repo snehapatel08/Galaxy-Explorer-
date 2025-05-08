@@ -253,5 +253,3 @@
 </script>
 </body>
 </html>
-</content>
-</create_file>
